@@ -1,0 +1,39 @@
+.google{
+    height: 130;
+    width: 130;
+}
+.result{
+    background-color: #01baef;
+    border-radius: 20px;
+    width: 90%;
+}
+.comparing{
+    background-color: aquamarine;
+}
+.accurate{
+    width: 95%;
+    border-radius: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    height: 27px;
+    font-size: 17px;
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: skyblue;
+}
+.images{
+    width: 160px;
+    height: 160px;
+}
+#final_result{
+    color: #6a5acd;
+    background-color: #80ff72;
+    width: 98%;
+    border-radius: 20px;
+}
